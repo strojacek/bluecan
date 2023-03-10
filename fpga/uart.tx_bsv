@@ -2,4 +2,4 @@ module uart_tx ()
 
 
 
-endmodule
+endmodule: uart_tx
